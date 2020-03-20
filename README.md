@@ -12,6 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : {Juliya Bondarenko}
+
 * Codeship : {PUT YOUR CODESHIP BAGDE HERE}
 
 Example of Codeship badge. Please remove the example before you send us the link. 
